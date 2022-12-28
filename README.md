@@ -1,4 +1,9 @@
-### Hi there 👋
+#  <p align="center">Hi there, I'm Ali Gholipour 👋</p>
+
+🔭  I’m currently Working with Microservice, DDD, TDD, Event-Driven Architecture .Net <br>
+👯  I’m looking to collaborate on: .NET projects <br>
+📫  Follow me on on [**Linkedin**](https://www.linkedin.com/in/aligholipour/) <br>
+📖  Open Source projects Enthusiast
 
 <!--
 **aligholipour/aligholipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
