@@ -1,8 +1,8 @@
 #  <p align="center">Hi there, I'm Ali Gholipour 👋</p>
 
-🔭  I’m currently Working with Microservice, DDD, TDD, Event-Driven Architecture .Net <br>
+🔭  I’m currently Working with Distributed System, DDD, TDD, Event-Driven Architecture <br>
 👯  I’m looking to collaborate on: .NET projects <br>
-📫  Follow me on on [**Linkedin**](https://www.linkedin.com/in/aligholipour/) <br>
+📫  Follow me on [**Linkedin**](https://www.linkedin.com/in/aligholipour/) <br>
 📖  Open Source projects Enthusiast
 
 <!--
